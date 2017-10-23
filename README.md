@@ -1,2 +1,2 @@
 # Snake-game
-Simple snake game made using JQuery and HTML canvas
+Simple snake game made with JQuery and HTML canvas
